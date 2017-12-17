@@ -19,7 +19,7 @@ html {
 .menu a {
     clear: right;
     text-decoration: none;
-    color: gray;
+    color: red;
     margin: 0 25px;
     line-height: 75px;
 }
